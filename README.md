@@ -10,8 +10,6 @@
 # 🔧 Technologies & Tools
 <table>
   <tr>
-    <br />
-    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
@@ -21,9 +19,6 @@
       />
       <br /><strong>Vue</strong>
     </td>
-   <br>
-   <br>
-    <br>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
@@ -42,7 +37,6 @@
       />
       <br /><strong>Bootstrap</strong>
     </td>
-  <br>
  <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
@@ -60,7 +54,6 @@
       />
       <br /><strong>Bash</strong>
     </td>
- </td>
 <td align="center" height="108" width="108">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg"
 width="48"
@@ -115,10 +108,6 @@ alt="Nginx"
       />
       <br /><strong>Node.js</strong>
     </td>
-  <br>
-
-   <br>
-   <br>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
