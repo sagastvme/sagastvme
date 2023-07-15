@@ -184,3 +184,13 @@ width="48"
     </td>
 </tr>
 </table>
+# 📈 Stats
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=michalosman&show_icons=true&theme=react&&hide_border=true"
+/>
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=michalosman&&theme=react&&hide_border=true"
+/>
+<br/>
+![](https://komarev.com/ghpvc/?username=michalosman)
