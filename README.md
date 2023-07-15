@@ -184,6 +184,7 @@ width="48"
     </td>
 </tr>
 </table>
+
 # 📈 Stats
 
 <img
