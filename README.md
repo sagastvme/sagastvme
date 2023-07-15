@@ -4,16 +4,13 @@
     My name is Eduardo and I'm a Full Stack Engineer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
 </div>
 
-<br/><a  href="https://www.linkedin.com/in/sagastvme/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a  href="mailto:eduardo.gomara.sagastume@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-
+<br/><a href="https://www.linkedin.com/in/sagastvme/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="mailto:eduardo.gomara.sagastume@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
 # 🔧 Technologies & Tools
-
 <table>
   <tr>
-   
-      <br /><strong>TypeScript</strong>
+    <br />
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -24,33 +21,9 @@
       />
       <br /><strong>Vue</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="48"
-        height="48"
-        alt="React"
-      />
-      <br /><strong>React</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-        width="48"
-        height="48"
-        alt="Next.js"
-      />
-      <br /><strong>Next.js</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
-        width="48"
-        height="48"
-        alt="Sass"
-      />
-      <br /><strong>Sass</strong>
-    </td>
+   <br>
+   <br>
+    <br>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
@@ -69,15 +42,68 @@
       />
       <br /><strong>Bootstrap</strong>
     </td>
-    <td align="center" height="108" width="108">
+  <br>
+ <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
         width="48"
         height="48"
-        alt="Material UI"
+        alt="Node.js"
       />
-      <br /><strong>Material UI</strong>
+      <br /><strong>MySQL</strong>
     </td>
+<td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" 
+        width="48"
+        height="48"
+        alt="Bash"
+      />
+      <br /><strong>Bash</strong>
+    </td>
+ </td>
+<td align="center" height="108" width="108">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg"
+width="48"
+height="48"
+alt="Composer"
+      />
+      <br /><strong>Composer</strong>
+    </td>
+<td align="center" height="108" width="108">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
+width="48"
+height="48"
+alt="Git"
+      />
+      <br /><strong>Git</strong>
+    </td>
+<td align="center" height="108" width="108">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"
+width="48"
+height="48"
+alt="HTML5"
+      />
+      <br /><strong>HTML5</strong>
+    </td>
+<td align="center" height="108" width="108">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"
+width="48"
+height="48"
+alt="Laravel"
+      />
+      <br /><strong>Laravel</strong>
+    </td>
+<td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
+width="48"
+height="48"
+alt="Nginx"
+      />
+      <br /><strong>Nginx</strong>
+    </td>
+
+
+
   </tr>
   <tr>
     <td align="center" height="108" width="108">
@@ -89,33 +115,10 @@
       />
       <br /><strong>Node.js</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-        width="48"
-        height="48"
-        alt="Express"
-      />
-      <br /><strong>Express</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-        width="48"
-        height="48"
-        alt="MongoDB"
-      />
-      <br /><strong>MongoDB</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-        width="48"
-        height="48"
-        alt="PostgreSQL"
-      />
-      <br /><strong>PostgreSQL</strong>
-    </td>
+  <br>
+
+   <br>
+   <br>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
@@ -125,14 +128,12 @@
       />
       <br /><strong>Firebase</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-        width="48"
-        height="48"
-        alt="Python"
-      />
-      <br /><strong>Python</strong>
+    <td align="center" height="108" width="108"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+width="48"
+height="48"
+alt="Php"/>
+      <br /><strong>PHP</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -143,25 +144,54 @@
       />
       <br /><strong>Docker</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+<td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg"
         width="48"
         height="48"
-        alt="AWS"
+        alt="Apache"
       />
-      <br /><strong>AWS</strong>
+      <br /><strong>Apache</strong>
     </td>
-  </tr>
+ </td>
+<td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        width="48"
+        height="48"
+        alt="CSS"
+      />
+      <br /><strong>CSS</strong>
+    </td>
+<td align="center" height="108" width="108">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg"
+        width="48"
+        height="48"
+        alt="FileZilla"
+      />
+      <br /><strong>FileZilla</strong>
+    </td>
+<td align="center" height="108" width="108">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+width="48"
+        height="48"
+        alt="Java"
+      />
+      <br /><strong>Java</strong>
+    </td>
+<td align="center" height="108" width="108">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+width="48"
+        height="48"
+        alt="Linux"
+      />
+      <br /><strong>Linux</strong>
+    </td>
+<td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+width="48"
+        height="48"
+        alt="NPM"
+      />
+      <br /><strong>NPM</strong>
+    </td>
+</tr>
 </table>
-
-# 📈 Stats
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=michalosman&show_icons=true&theme=react&&hide_border=true"
-/>
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=michalosman&&theme=react&&hide_border=true"
-/>
-<br/>
-![](https://komarev.com/ghpvc/?username=michalosman)
