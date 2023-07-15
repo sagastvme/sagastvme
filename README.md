@@ -1,8 +1,7 @@
 # 👋 Hey there
 
 <div align="justify">
-    My name is Eduardo and I'm a Full Stack Engineer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
-</div>
+Hi, I'm Eduardo, a full-stack web developer who is passionate about technology and loves solving problems. I have a strong foundation in front-end and back-end development, and I'm always looking for new challenges. I'm also a team player and I'm always willing to help others.</div>
 
 <br/><a href="https://www.linkedin.com/in/sagastvme/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:eduardo.gomara.sagastume@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
