@@ -17,5 +17,5 @@ Cloud services (AWS), Infrastructure as Code (IaC), AI (AWS Bedrock, OpenAI), Py
 - Fluent in **English**  and **Spanish**.
 
 ### 📫 Connect with Me
-- [Personal Website](https://sagastvme.duckdns.org/)
+- [Personal Website](https://sagastvme.ddns.net/)
 - [LinkedIn](https://www.linkedin.com/in/sagastvme)
